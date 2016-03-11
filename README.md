@@ -24,8 +24,13 @@ Cerberus(.sh - guardian) guards your pc(gates) that leads to the inside of your 
 
 X.X.0: Design Board	  - Design Mantion
 
-X.X.1: Alpha			    - Feature Ville
+X.X.1: Alpha			       - Feature Ville
 
-X.1.X: Beta			      - Stable Road
+X.1.X: Beta			        - Stable Road
 
-X.0.0: Stable			    - Ye old stable release
+X.0.0: Stable			      - Ye old stable release
+
+##Status
+
+Right now I'm in the `Design Mantion`, with one foot in `Feature Ville`
+

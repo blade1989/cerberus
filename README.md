@@ -30,6 +30,16 @@ X.1.X: Beta			        - Stable Road
 
 X.0.0: Stable			      - Ye old stable release
 
+##Tools
+
+ - [OpenSSL-based signcode utility download | SourceForge.net](https://sourceforge.net/projects/osslsigncode/)
+   - Platform-independent tool for Authenticode signing of PE(EXE/SYS/DLL/etc), CAB and MSI files - uses OpenSSL and libcurl. It also supports timestamping (Authenticode and RFC3161).
+ - [TrID - File Identifier](http://mark0.net/soft-trid-e.html)
+   -  TrID is an utility designed to identify file types from their binary signatures. While there are similar utilities with hard coded logic, TrID has no fixed rules. Instead, it's extensible and can be trained to recognize new formats in a fast and automatic way. 
+ - [exiftool - Read and write meta information in files](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+   - ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
+
+
 ##Status
 
 Right now I'm in the `Design Mantion`, with one foot in `Feature Ville`

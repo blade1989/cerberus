@@ -1,5 +1,5 @@
 # cerberus
-Cerberus - Powerfull Malware Scanner
+Cerberus - Powerful but lightweight Malware Scanner
 
 ## Why?
 
@@ -7,11 +7,11 @@ I tried out clamav, it was a total resource hog. CPU usage of my server was arou
 
 ## What are you using?
  
- - The main DB of clamav
- - malwr.com 
-   - hopefully latter on also VirusTotal
+ - clamav DB
+ - https://malwr.com/ 
+   - hopefully latter on also https://www.virustotal.com/
  - http://malshare.com/ signatures
- - virussign.com signatures
+ - http://virussign.com/ signatures
  - http://www.malwaredomainlist.com (for detection of malware IP-adresses)
  - Malwares from https://ytisf.github.io/theZoo/ for testign purposes
  
@@ -22,13 +22,13 @@ Cerberus(.sh - guardian) guards your pc(gates) that leads to the inside of your 
 
 ##Version numbering
 
-X.X.0: Design Board	  - Design Mantion
-
-X.X.1: Alpha			       - Feature Ville
-
-X.1.X: Beta			        - Stable Road
-
-X.0.0: Stable			      - Ye old stable release
+ X.X.0: Design Board	  - Design Mantion
+ 
+ X.X.1: Alpha			       - Feature Ville
+ 
+ X.1.X: Beta			        - Stable Road
+ 
+ X.0.0: Stable			      - Ye old stable release
 
 ##Tools
 
@@ -42,5 +42,7 @@ X.0.0: Stable			      - Ye old stable release
 
 ##Status
 
-Right now I'm in the `Design Mantion`, with one foot in `Feature Ville`
+Right now I'm in the `Design Mantion`, with one foot in `Feature Ville`. 
+
+The code will be posted as soon as I get everything working(ish).
 

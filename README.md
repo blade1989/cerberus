@@ -8,12 +8,11 @@ I tried out clamav, it was a total resource hog. CPU usage of my server was arou
 ## What are you using?
  
  - clamav DB
- - https://malwr.com/ 
-   - hopefully latter on also https://www.virustotal.com/
  - http://malshare.com/ signatures
  - http://virussign.com/ signatures
  - http://www.malwaredomainlist.com (for detection of malware IP-adresses)
  - Malwares from https://ytisf.github.io/theZoo/ for testign purposes
+ - https://malwr.com/ online scanning(latter on)
  
 ##The name
 Cerberus is - usually - the three headed dog that guards the gates of the underworld

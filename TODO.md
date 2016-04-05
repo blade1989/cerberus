@@ -13,11 +13,11 @@
 
 	 - VirusTotal:  The following table is a summary your API key's properties. 
 
->	Privileges 		public key
->	Request rate	4 requests/minute
->	Daily quota		5760 requests/day
->	Monthly quota	178560 requests/month
->	Status 			Key enabled
+> Privileges 		public key
+> Request rate	4 requests/minute
+> Daily quota		5760 requests/day
+> Monthly quota	178560 requests/month
+> Status 			Key enabled
 
 	SOURCE: https://www.virustotal.com/nl/user/NAME/apikey/
 

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>MalwareDomainList ZeuS urls</title>
+<link>http://www.malwaredomainlist.com/mdl.php</link>
+<description>MalwareDomainList ZeuS urls. This feed shows the latest ZeuS urls which have been added to our list.</description>
+<language>en</language>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>RSS Feed Engine</generator>
+<managingEditor>admin@malwaredomainlist.com (admin)</managingEditor>
+<webMaster>admin@malwaredomainlist.com (admin)</webMaster>
+<atom:link href="http://www.malwaredomainlist.com/hostslist/zeus.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>www.ozowarac.com (2015/12/26_13:42)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.ozowarac.com</link>
+<description>Host: www.ozowarac.com/P_O/Purchase_Order.zip, IP address: 198.105.221.5, ASN: 36351, Country: US, Description: Zeus trojan inside zip file</description>
+<guid isPermaLink="false">6b37f7d87b4a2aa329970994f3beb974</guid>
+</item>
+<item>
+<title>www.ozowarac.com (2015/12/26_13:31)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.ozowarac.com</link>
+<description>Host: www.ozowarac.com/me/config.bin, IP address: 198.105.221.5, ASN: 36351, Country: US, Description: Zeus config file</description>
+<guid isPermaLink="false">9dc5572d4c41c6bb3f7150cab5d5ea99</guid>
+</item>
+<item>
+<title>www.cennoworld.com (2015/12/26_13:26)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.cennoworld.com</link>
+<description>Host: www.cennoworld.com/Purchase_Order/Purchase_Order.zip, IP address: 198.105.221.5, ASN: 36351, Country: US, Description: Zeus trojan inside zip file</description>
+<guid isPermaLink="false">c16ab4af2fc2b378b977f7996c145782</guid>
+</item>
+<item>
+<title>www.goooglesecurity.com (2015/12/26_13:12)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.goooglesecurity.com</link>
+<description>Host: www.goooglesecurity.com/Purchase_Order/Purchase_Order.zip, IP address: 85.159.237.150, ASN: 43350, Country: NL, Description: Zeus trojan inside zip file</description>
+<guid isPermaLink="false">608576f82a442cecffe4f664a77a6486</guid>
+</item>
+<item>
+<title>www.cennoworld.com (2015/12/26_13:12)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.cennoworld.com</link>
+<description>Host: www.cennoworld.com/ur/config.bin, IP address: 198.105.221.5, ASN: 36351, Country: US, Description: Zeus config file</description>
+<guid isPermaLink="false">f189d383bfd6129dbd72b0371df0d8dc</guid>
+</item>
+<item>
+<title>antalya-eticaret.com (2015/03/16_10:46)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=antalya-eticaret.com</link>
+<description>Host: antalya-eticaret.com/ky/gate.php, IP address: 46.45.190.57, ASN: 42926, Country: TR, Description: Zeus drop zone</description>
+<guid isPermaLink="false">54faee3a499a730c1b143a4286081386</guid>
+</item>
+<item>
+<title>antalya-eticaret.com (2015/03/16_10:46)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=antalya-eticaret.com</link>
+<description>Host: antalya-eticaret.com/ky/config.bin, IP address: 46.45.190.57, ASN: 42926, Country: TR, Description: Zeus config file</description>
+<guid isPermaLink="false">5ee88845ff6696d3de87e96bb46b8a91</guid>
+</item>
+<item>
+<title>alsoknowsit.com (2014/09/02_09:11)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=alsoknowsit.com</link>
+<description>Host: alsoknowsit.com/wp-files/config.bin, IP address: 80.250.114.239, ASN: 39038, Country: EE, Description: Zeus config file</description>
+<guid isPermaLink="false">cadd7bdf960c526e31df353dfb376fe7</guid>
+</item>
+<item>
+<title>69.55.49.159 (2012/10/26_23:28)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=69.55.49.159</link>
+<description>Host: -, IP address: 69.55.49.159/gate.php, ASN: 46652, Country: US, Description: Zeus drop zone</description>
+<guid isPermaLink="false">afbfde53f17254e7d3aaaa442d5e3f9d</guid>
+</item>
+<item>
+<title>69.55.49.159 (2012/10/26_23:28)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=69.55.49.159</link>
+<description>Host: -, IP address: 69.55.49.159/config.bin, ASN: 46652, Country: US, Description: Zeus config file</description>
+<guid isPermaLink="false">259f391e2a9a9ff23cbc748b7530ea0b</guid>
+</item>
+<item>
+<title>69.162.82.26 (2012/07/03_13:43)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=69.162.82.26</link>
+<description>Host: -, IP address: 69.162.82.26/version2/webber/1/gate.php, ASN: 46475, Country: US, Description: Zeus drop zone</description>
+<guid isPermaLink="false">60f297fff144befbaddf911d25d4b441</guid>
+</item>
+<item>
+<title>69.162.82.26 (2012/07/03_13:43)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=69.162.82.26</link>
+<description>Host: -, IP address: 69.162.82.26/version2/webber/1/config.bin, ASN: 46475, Country: US, Description: Zeus config file</description>
+<guid isPermaLink="false">8b7149b20d82e3126efccad9623dd308</guid>
+</item>
+<item>
+<title>91.223.82.58 (2012/06/28_21:29)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=91.223.82.58</link>
+<description>Host: -, IP address: 91.223.82.58/~rivernig/19/gate.php, ASN: 51430, Country: NL, Description: Zeus drop zone</description>
+<guid isPermaLink="false">1d245d36b2005e5290b74554c96e8c4b</guid>
+</item>
+<item>
+<title>91.223.82.58 (2012/06/28_21:29)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=91.223.82.58</link>
+<description>Host: -, IP address: 91.223.82.58/~rivernig/19/config.bin, ASN: 51430, Country: NL, Description: Zeus config file</description>
+<guid isPermaLink="false">e9dc18effbf2826ba2ed22053e610e87</guid>
+</item>
+<item>
+<title>ns1.updatesdns.org (2012/06/26_05:59)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=ns1.updatesdns.org</link>
+<description>Host: ns1.updatesdns.org/static.htmls, IP address: 46.17.102.124, ASN: 49335, Country: RU, Description: zeus config file</description>
+<guid isPermaLink="false">8e93820df2077af4cc34d2bf9e4ec65e</guid>
+</item>
+<item>
+<title>www.panazan.ro (2012/06/19_07:03)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.panazan.ro</link>
+<description>Host: www.panazan.ro/online/libraries/pattemplate/patTemplate/Modifier/HTML/im/o/z/3pingo/gate.php, IP address: 89.42.216.47, ASN: 5606, Country: RO, Description: zeus drop zone</description>
+<guid isPermaLink="false">12ec319cde86ddb595c6e028b808d5fc</guid>
+</item>
+<item>
+<title>www.panazan.ro (2012/06/19_07:03)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.panazan.ro</link>
+<description>Host: www.panazan.ro/online/libraries/pattemplate/patTemplate/Modifier/HTML/im/o/z/3pingo/cfg.bin, IP address: 89.42.216.47, ASN: 5606, Country: RO, Description: zeus config file</description>
+<guid isPermaLink="false">f3946418cdc018344c0828ba222729c9</guid>
+</item>
+<item>
+<title>188.40.168.128 (2012/04/30_16:15)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=188.40.168.128</link>
+<description>Host: -, IP address: 188.40.168.128/b.php, ASN: 24940, Country: DE, Description: zeus drop zone</description>
+<guid isPermaLink="false">68773660df15db9c4edff5da29a8155c</guid>
+</item>
+<item>
+<title>188.40.168.128 (2012/04/30_16:15)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=188.40.168.128</link>
+<description>Host: -, IP address: 188.40.168.128/c.bin, ASN: 24940, Country: DE, Description: zeus config file</description>
+<guid isPermaLink="false">6f2cadb634b04549adc747a5ad27434a</guid>
+</item>
+<item>
+<title>91.223.223.244 (2012/04/30_16:15)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=91.223.223.244</link>
+<description>Host: -, IP address: 91.223.223.244/b.php, ASN: 21219, Country: UA, Description: zeus drop zone</description>
+<guid isPermaLink="false">157165ed606aa7d62d9fe47f747790cb</guid>
+</item>
+<item>
+<title>91.223.223.244 (2012/04/30_16:15)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=91.223.223.244</link>
+<description>Host: -, IP address: 91.223.223.244/c.bin, ASN: 21219, Country: UA, Description: zeus config file</description>
+<guid isPermaLink="false">fce5d0dbfa75211e513d21e461d438cd</guid>
+</item>
+<item>
+<title>69.194.192.229 (2012/04/12_15:12)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=69.194.192.229</link>
+<description>Host: -, IP address: 69.194.192.229/q.php?f=7245d&amp;e=2, ASN: 14670, Country: US, Description: Zeus trojan</description>
+<guid isPermaLink="false">c2e0368253ce7b69043bc5638ff3c792</guid>
+</item>
+<item>
+<title>62.109.29.101 (2012/04/11_20:36)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=62.109.29.101</link>
+<description>Host: -, IP address: 62.109.29.101/a/xwy.php?i=15, ASN: 29182, Country: LU, Description: Zeus trojan</description>
+<guid isPermaLink="false">b464677a47d89b6001918292fcbf070a</guid>
+</item>
+<item>
+<title>178.248.85.67 (2012/04/01_19:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=178.248.85.67</link>
+<description>Host: -, IP address: 178.248.85.67/zeus/gate.php, ASN: 41794, Country: RU, Description: zeus drop zone</description>
+<guid isPermaLink="false">bda2e5f9a2d35517f1d6ea5ea2b92b64</guid>
+</item>
+<item>
+<title>178.248.85.67 (2012/04/01_19:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=178.248.85.67</link>
+<description>Host: -, IP address: 178.248.85.67/zeus/config.bin, ASN: 41794, Country: RU, Description: zeus config file</description>
+<guid isPermaLink="false">7b6aab630554cc01685455503a29a7c3</guid>
+</item>
+</channel>
+</rss>

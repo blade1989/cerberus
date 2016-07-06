@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>MalwareDomainList updates</title>
+<link>http://www.malwaredomainlist.com/mdl.php</link>
+<description>MalwareDomainList update. This feed shows the latest urls which have been added to our list.</description>
+<language>en</language>
+<docs>http://www.rssboard.org/rss-specification</docs>
+<generator>RSS Feed Engine</generator>
+<managingEditor>admin@malwaredomainlist.com (admin)</managingEditor>
+<webMaster>admin@malwaredomainlist.com (admin)</webMaster>
+<atom:link href="http://www.malwaredomainlist.com/hostslist/mdl.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>www.hochzeit.at (2016/03/14_09:13)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.hochzeit.at</link>
+<description>Host: www.hochzeit.at/, IP address: 176.28.37.75, ASN: 20773, Country: DE, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">65b968451d552b3d4817b49f4ba59d24</guid>
+</item>
+<item>
+<title>ohelloguyqq.com (2016/03/14_10:24)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=ohelloguyqq.com</link>
+<description>Host: ohelloguyqq.com/70.exe, IP address: 54.212.162.6, ASN: 16509, Country: US, Description: trojan</description>
+<guid isPermaLink="false">8f18f12cb61ec21250d343b0771d456f</guid>
+</item>
+<item>
+<title>avto-pobeda.ru (2016/03/14_13:32)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=avto-pobeda.ru</link>
+<description>Host: avto-pobeda.ru/sQEdD12ty/, IP address: 185.15.209.96, ASN: 52000, Country: RU, Description: leads to Locky ransomware</description>
+<guid isPermaLink="false">300b3d2c18c53acac323b2e49d5cdf4c</guid>
+</item>
+<item>
+<title>81.169.219.64 (2016/03/13_14:23)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=81.169.219.64</link>
+<description>Host: -, IP address: 81.169.219.64/security_check.html, ASN: 6724, Country: DE, Description: PayPal phishing</description>
+<guid isPermaLink="false">ea806ff0925582f9dd295895ebd0956f</guid>
+</item>
+<item>
+<title>185.11.146.198 (2016/03/13_14:23)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=185.11.146.198</link>
+<description>Host: -, IP address: 185.11.146.198/, ASN: 49349, Country: NL, Description: PayPal phishing</description>
+<guid isPermaLink="false">fcfd51e7e78b37a4172956af6e65b83e</guid>
+</item>
+<item>
+<title>www.saintlouis-viry.fr (2016/03/09_09:35)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=www.saintlouis-viry.fr</link>
+<description>Host: www.saintlouis-viry.fr/infos-pratiques/documents-a-telecharger.html, IP address: 5.135.11.9, ASN: 16276, Country: FR, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">9a90fa3b3eb0bdb5db1c4d858c9076a7</guid>
+</item>
+<item>
+<title>marketing-material.ieiworld.com (2016/03/09_09:35)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=marketing-material.ieiworld.com</link>
+<description>Host: marketing-material.ieiworld.com/, IP address: 173.255.219.191, ASN: 6939, Country: US, Description: compromised site leads to Angler EK</description>
+<guid isPermaLink="false">5ad783439aa570a1a22e70396de60a52</guid>
+</item>
+<item>
+<title>izzy-cars.nl (2016/03/08_10:51)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=izzy-cars.nl</link>
+<description>Host: izzy-cars.nl/9uj8n76b5.exe, IP address: 46.235.47.134, ASN: 34233, Country: NL, Description: trojan</description>
+<guid isPermaLink="false">3ed692704405f213fac4f040603757f0</guid>
+</item>
+<item>
+<title>stopmeagency.free.fr (2016/03/08_10:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=stopmeagency.free.fr</link>
+<description>Host: stopmeagency.free.fr/9uj8n76b5.exe, IP address: 212.27.63.112, ASN: 12322, Country: FR, Description: trojan</description>
+<guid isPermaLink="false">1221b4bff955f937f24cd8a4c379a187</guid>
+</item>
+<item>
+<title>reclamus.com (2016/03/08_10:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=reclamus.com</link>
+<description>Host: reclamus.com/9uj8n76b5.exe, IP address: 198.63.208.35, ASN: 14585, Country: US, Description: trojan</description>
+<guid isPermaLink="false">7dcc09f5cfd56aaa8375a01b6c584b9a</guid>
+</item>
+<item>
+<title>lhs-mhs.org (2016/03/08_10:58)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=lhs-mhs.org</link>
+<description>Host: lhs-mhs.org/9uj8n76b5.exe, IP address: 208.131.141.2, ASN: 29854, Country: US, Description: trojan</description>
+<guid isPermaLink="false">0b20262e4158347d8b19a458f0dffd60</guid>
+</item>
+<item>
+<title>lahmar.choukri.perso.neuf.fr (2016/03/08_13:42)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=lahmar.choukri.perso.neuf.fr</link>
+<description>Host: lahmar.choukri.perso.neuf.fr/78hg4wg, IP address: 86.65.123.70, ASN: 15557, Country: FR, Description: Locky ransomware</description>
+<guid isPermaLink="false">dd3c67f570b09842f9a5683c6891b6ab</guid>
+</item>
+<item>
+<title>ministerepuissancejesus.com (2016/03/08_14:13)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=ministerepuissancejesus.com</link>
+<description>Host: ministerepuissancejesus.com/o097jhg4g5, IP address: 69.89.31.133, ASN: 46606, Country: US, Description: Locky ransomware</description>
+<guid isPermaLink="false">abd4116545c3056676f354cba3a6bbd8</guid>
+</item>
+<item>
+<title>ozono.org.es (2016/03/08_14:13)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=ozono.org.es</link>
+<description>Host: ozono.org.es/k7j6h5gf, IP address: 217.160.232.15, ASN: 8560, Country: DE, Description: Locky ransomware</description>
+<guid isPermaLink="false">3dae1c9307f59569d451c17335048502</guid>
+</item>
+<item>
+<title>softworksbd.com (2016/03/07_21:39)</title>
+<link>http://www.malwaredomainlist.com/mdl.php?search=softworksbd.com</link>
+<description>Host: softworksbd.com/73tgbf334, IP address: 59.152.100.158, ASN: 63969, Country: BD, Description: trojan Locky</description>
+<guid isPermaLink="false">64274913e3c2be88aa3b2c8ad20087e8</guid>
+</item>
+</channel>
+</rss>

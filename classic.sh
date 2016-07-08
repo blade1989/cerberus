@@ -114,22 +114,22 @@
 # Not all Malware that are in the Clamav DB, are available in the VirusTotal or malwr database
 
 # key use malwr.com
-# malwr_api_key="9971a7e07b95485ca8f1aed15c21a55f"
+# malwr_api_key=""
 
 # submission disabled. Please come back at a later time, we hope to be able to resume operations soon. We apologize for the inconvenience.
 # curl -F api_key=$malwr_api_key -F shared=yes -F file=/tmp/9A0E765EECC5433AF3DC726206ECC56E https://malwr.com/api/analysis/add/
 
-# nmap --script http-virustotal --script-args='apikey="cde4f309fc0edef97b54db1eb94b850b0158eec4ed3f9c63b4b3a15f846f59f7",checksum="/path/cryptowall.bin"'
+# nmap --script http-virustotal --script-args='apikey="",checksum="/path/cryptowall.bin"'
 
-# VirusTotal="cde4f309fc0edef97b54db1eb94b850b0158eec4ed3f9c63b4b3a15f846f59f7"
+# VirusTotal=""
 
-# curl -s -X POST 'https://www.virustotal.com/vtapi/v2/file/report' --form apikey="cde4f309fc0edef97b54db1eb94b850b0158eec4ed3f9c63b4b3a15f846f59f7" --form resource="e4736f7f320f27cec9209ea02d6ac695" | sed 's|\},|\}\n|g'
+# curl -s -X POST 'https://www.virustotal.com/vtapi/v2/file/report' --form apikey="" --form resource="e4736f7f320f27cec9209ea02d6ac695" | sed 's|\},|\}\n|g'
 
 # |awk -F'positives\":' '{print "VirusTotal scanners:" $2}'|awk -F' ' '{print $1$2" "$3$6$7}'|sed 's/["}]//g' && exit
 
 # HashLookup
 #https://hashlookup.metascan-online.com/v2/hash/8bca0031f3b691421cb15f9c6e71ce193355d2d8cf2b190438b6962761d0c6bb
-# nmap --script http-virustotal --script-args='apikey="cde4f309fc0edef97b54db1eb94b850b0158eec4ed3f9c63b4b3a15f846f59f7",checksum="/tmp/cryptowall.bin"'
+# nmap --script http-virustotal --script-args='apikey="",checksum="/tmp/cryptowall.bin"'
 
 
 # Here comes the boom...
